@@ -37,5 +37,5 @@ Here's the launched [Heroku app] https://
 [Anam Brazik]( https://github.com/abrazik))
 [Bernie McKnight]( https://github.com/sissyhanks)
 [Judy Motha]( https://github.com/JudyMotha)
-[Lance Bailey]( https://github.com/lancebailey26)
+[Lance Bailey]( https://github.com/lancebailey26
 [Raemarie Oatman ]( https://github.com/rmoatman
