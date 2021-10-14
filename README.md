@@ -38,4 +38,4 @@ Here's the launched [Heroku app] https://
 [Bernie McKnight](https://github.com/sissyhanks)
 [Judy Motha](https://github.com/JudyMotha)
 [Lance Bailey](https://github.com/lancebailey26)
-[Raemarie Oatman](https://github.com/rmoatman
+[Raemarie Oatman](https://github.com/rmoatman)
