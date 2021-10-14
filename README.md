@@ -5,7 +5,7 @@
 Pharm-Assist is a userfriendly app designed to track user medications ,schedule&dosage . Our app does the following 
 * Prints a  Portable Document Format (PDF) for users to share the above info with providers
 * Compare  medications and says about their interactions
-* Provides low drug prices at local pharmacies by zipcode
+* Provides comparative low drug prices at local pharmacies by zipcode
 
 Motivation behind this work  is  a real life situation of a family member in our team who  had to take  medications prescribed by different providers  which kept changing frequently .And felt “Would ‘nt it be nice to have a hardcopy (pdf) of updated medlist with dosage and  schedule to be given to various providers.And ,thus our app was born!!!
 
@@ -19,10 +19,11 @@ Motivation behind this work  is  a real life situation of a family member in our
 ## Technologies
 * GraphQL
 * React
+* React-toPrint
 * NPM packages
 * JWT (authentication)
 * Axios for API calls
-* APIs from (NIH)
+* APIs from (NIH):National Institute of Health - RxNorm API  ;National Institute of Health - Drug Interaction API
 
 
 ## Installation
