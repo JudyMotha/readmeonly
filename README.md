@@ -32,6 +32,8 @@ No installation necessary; just engage on Heroku!
 ## Usage
 Here's the launched [Heroku app] https://
 
+<img src="./pharmassist.gif">
+
 
 ## Collaborators/Credits
 * [Anam Brazik][(https://github.com/abrazik)]
